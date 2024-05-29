@@ -160,3 +160,9 @@ img.memeimg {
     transform: rotate(1turn);
   }
 }
+
+@media only screen and (max-width: 1000px) {
+  .meme-container {
+    width: 100%;
+  }
+}
